@@ -8,7 +8,7 @@ Engineer features and manage outliers with creative decision-making.
 Document cleaning steps for reproducibility.
 Messy datasets like Titanic are common, with issues that can skew analyses or AI models. Cleaning and enhancing such datasets ensures reliable insights, a critical skill for workflows like predictive modelling or reporting.
 
-#Project 2: 🚀 Capstone Project: Launch Your Interactive Dashboard! 🌍
+# Project 2: 🚀 Capstone Project: Launch Your Interactive Dashboard! 🌍
 
 Hey there, data explorers! 👋 Get ready for an exciting capstone project where you'll bring your skills to life by building a sleek, interactive dashboard from the ground up. We'll be using the Global Land Temperatures dataset to create a cool web app that lets anyone explore climate trends. Let's get building! 🛠️
 Your Tech Toolkit 🧰
